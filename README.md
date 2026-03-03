@@ -1,6 +1,25 @@
 # ClearTube-Userscript
 A userscript to customise Youtube homepage, recommendations, comments, shorts tab etc 
 
+Preview 1 (click to play):
+<p align="left">
+  <img
+    src="https://github.com/user-attachments/assets/802e2ee3-880c-484e-86bb-63201ec16c33"
+    width="520"
+    alt="Cleartube–Preview"
+  />
+</p>
+
+
+Preview 2:
+<p align="left">
+  <img
+    src="https://github.com/user-attachments/assets/bb08b521-d037-4060-90be-8f39c4f587fe"
+    width="520"
+    alt="Cleartube–Preview-2"
+  />
+</p>
+
 ## How to Use
 - Download a compatible userscript manager extension for your browser
 - Popular options are:
