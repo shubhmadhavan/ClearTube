@@ -1,4 +1,4 @@
-# ClearTube-Userscript
+# ClearTube
 A userscript to customise Youtube homepage, recommendations, comments, shorts tab etc 
 
 Preview 1 (click to play):
