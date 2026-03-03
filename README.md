@@ -32,9 +32,16 @@ Preview 2:
 
 - Then simply toggle features as per your need
 
-## Examples
-(to be updated)
-
+## Features:
+You can toggle viewing (Disable/ Enable) the following items from various Youtube Pages:
+- Home Page Video Recommendations 
+- Home Page Shorts Recommendations
+- Video Recommendations
+- Comments
+- Sidebar
+- Tags/ Categories
+- Live Chat
+- Donations
 
 ## Extra
 I have nothing to plug here. But here's a quote:
