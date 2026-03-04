@@ -30,6 +30,7 @@ Preview 2:
 - Go to Youtube; click on the userscript manager extension
   - For Tampermonkey, it looks like this: 
  <img width="230" alt="2025-11-02 (09-55-37)" src="https://github.com/user-attachments/assets/5f9cbf30-ffa5-47bc-8956-b68951418a73" />
+ 
 - Toggle Youtube features as per your preferences
 
 ## Features:
